@@ -1,0 +1,66 @@
+@CHARSET "ISO-8859-1";
+
+
+H1  
+{
+	font: 30px Arial;
+	font-weight: bold;
+}
+
+body 
+{
+	width:800px;
+	margin:auto;
+	background-image:url(img/background.jpg);
+	padding:20px;
+	height:auto;
+	background-repeat:repeat;
+}
+
+#logo
+{
+	margin-top:50px;
+	text-align:center;
+	
+}
+
+#titre
+{
+	margin-top:30px;
+	text-align:center;
+	height:auto;
+	
+}
+
+#tout
+{
+	border:black 5px solid;
+	margin:auto;
+	width:700px;
+	background-color:#C0C0C0;
+	border-radius: 15px;
+	box-shadow: 5px 5px 5px black;
+	align:center;
+}
+
+#info
+{
+	margin:auto;
+	text-align:right;
+	padding:50px;
+}
+
+#main
+{
+	margin:auto;
+	text-align:center;
+	padding:auto;
+	width:auto;
+}
+#champtexte
+{
+	margin:auto;
+	padding:auto;
+	text-align:right;
+	width:280px;
+}
